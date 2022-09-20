@@ -1,5 +1,4 @@
-# [此为真寻bot适配pluginmetadata版](https://github.com/HibiKier/zhenxun_bot)
-------------------------------------------------
+
 # 米游社商品兑换工具
 <div align="left">
   <a href="https://www.codefactor.io/repository/github/ljzd-pro/mys_goods_tool" target="_blank">
