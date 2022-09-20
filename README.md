@@ -1,4 +1,4 @@
-# 此为真寻bot适配pluginmetadata版
+# 此为真寻bot适配pluginmetadata版<a href="https://github.com/HibiKier/zhenxun_bot" target="_blank">
 ------------------------------------------------
 # 米游社商品兑换工具
 <div align="left">
